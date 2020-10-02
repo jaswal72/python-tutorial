@@ -1,5 +1,5 @@
 # Python Tutorial
-This is not a comprehensive Python tutorial but instead is intended to highlight the parts of the language that will be most important for us. You can download python form the [python.org](https://docs.python.org/3/library/index.html). I recommend installing Anaconda distribution, which already includes most of the libraries that are need to do data science.
+This is not a comprehensive Python tutorial but instead is intended to highlight the parts of the language that will be most important for us. You can download python form the [python.org](https://www.python.org/downloads/). I recommend installing [Anaconda distribution](www.anaconda.com/products/individual), which already includes most of the libraries that are need to do data science.
 
 ### Keep in mind
  * Python is very slow when written badly.
